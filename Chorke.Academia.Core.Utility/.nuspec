@@ -4,25 +4,22 @@
         <id>Chorke.Academia.Core.Utility</id>
         <owners>chorkeorg, chorkeinc</owners>
         <authors>Chorke Academia</authors>
-        <version>1.0.00</version>
+        <version>1.0.3</version>
 
-        <projectUrl>http://github.com/chorkeorg/Chorke.Academia.Core.Utility</projectUrl>
         <license type="expression">MIT</license>
-        
-        <iconUrl>http://img.chorke.com/chorke_logo.png</iconUrl>
-        <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <releaseNotes>Initial Release</releaseNotes>
-
         <description>Core utility functions for core applications</description>
+        <projectUrl>http://github.com/chorkeorg/Chorke.Academia.Core.Utility</projectUrl>
         <copyright>Copyright ©2019 Chorke Academia, Inc</copyright>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <iconUrl>http://img.chorke.com/chorke_logo.png</iconUrl>
+        <releaseNotes>Initial Release</releaseNotes>
         <tags>utility parsing format</tags>
-
         <!--
         <dependencies>
-            <dependency id="Chorke.Academia.Core.Affirm" version="1.0.00" />
-        </dependencies> -->
-    </metadata>
-
+            <dependency id="Chorke.Academia.Core.Affirm" version="1.0.0" />
+        </dependencies>
+         -->
+    </metadata>ß
     <files>
         <file src="../LICENSE" target="" />
         <file src="../README.md" target="" />

@@ -1,8 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
@@ -15,5 +13,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Chorke.Academia.Core.Utility\Chorke.Academia.Core.Utility.csproj" />
   </ItemGroup>
-
 </Project>
