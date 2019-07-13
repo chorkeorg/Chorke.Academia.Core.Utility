@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>Chorke.Academia.Core.Utility</id>
+        <owners>chorkeorg, chorkeinc</owners>
+        <authors>Chorke Academia</authors>
+        <version>1.0.00</version>
+
+        <projectUrl>http://github.com/chorkeorg/Chorke.Academia.Core.Utility</projectUrl>
+        <license type="expression">MIT</license>
+        
+        <iconUrl>http://img.chorke.com/chorke_logo.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <releaseNotes>Initial Release</releaseNotes>
+
+        <description>Core utility functions for core applications</description>
+        <copyright>Copyright ©2019 Chorke Academia, Inc</copyright>
+        <tags>utility parsing format</tags>
+
+        <!--
+        <dependencies>
+            <dependency id="Chorke.Academia.Core.Affirm" version="1.0.00" />
+        </dependencies> -->
+    </metadata>
+
+    <files>
+        <file src="../LICENSE" target="" />
+        <file src="../README.md" target="" />
+    </files>
+</package>
